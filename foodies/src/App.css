@@ -1,0 +1,10 @@
+.backImg {
+  /*background: linear-gradient(to bottom right, #f5f7fa, #c3cfe2); /* Example: light gray to blue */
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background: linear-gradient(to right, #162f3a, #2193b0 40%, #aee7f5 90%);
+
+
+}
